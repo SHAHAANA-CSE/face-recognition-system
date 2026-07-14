@@ -33,4 +33,4 @@ A real-time face recognition system developed using Python and OpenCV that detec
 - Improved accuracy using deep learning-based face recognition models
 
 ## Author
-**Shahaana**
+**Shahaana.G**
